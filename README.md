@@ -1,27 +1,54 @@
-# NgPokemonApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.1.
+![Logo](https://archives.bulbagarden.net/media/upload/4/4b/Pok%C3%A9dex_logo.png)
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+# ng-pokemon-app
 
-## Code scaffolding
+Un Pokédex réalisé en Angular afin d'apprendre le framework [Angular](https://angular.io/ "Framework Angular")
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Ce projet a été généré avec [Angular CLI](https://github.com/angular/angular-cli) version 15.0.1.
+## Demonstration
 
-## Build
+https://ng-app-pokemon-9ee95.web.app/
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Run Locally
 
-## Running unit tests
+Cloner le projet
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+```bash
+  git clone https://github.com/meleadr/ng-pokemon-app.git
+```
 
-## Running end-to-end tests
+Aller dans le dossier du projet
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+```bash
+  cd ng-pokemon-app
+```
 
-## Further help
+Installer les dépendances
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+```bash
+  npm install -g @angular/cli
+```
+
+Démarrer le projet en dev
+
+```bash
+  ng serve
+```
+
+Naviguer sur `http://localhost:4200/`.
+
+
+## Déploiement
+
+Ce projet a été déployé avec Firebase
+
+```bash
+  firebase init
+```
+
+
+## Auteur
+
+- [@meleadr](https://www.github.com/meleadr)
