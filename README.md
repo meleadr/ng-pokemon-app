@@ -1,8 +1,6 @@
+<p align="center"><img  src="https://archives.bulbagarden.net/media/upload/4/4b/Pok%C3%A9dex_logo.png" alt="Logo"/></p>
 
-![Logo](https://archives.bulbagarden.net/media/upload/4/4b/Pok%C3%A9dex_logo.png)
-
-
-# ng-pokemon-app
+<h1 align="center">ng-pokemon-app</h1>
 
 Un Pokédex réalisé en Angular afin d'apprendre le framework [Angular](https://angular.io/ "Framework Angular")
 
